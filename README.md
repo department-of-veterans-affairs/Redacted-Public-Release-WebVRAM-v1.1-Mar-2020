@@ -1,4 +1,2 @@
 # Redacted-Public-Release-WebVRAM-v1.1-Mar-2020
 Repository containing the CIF submission for A Telehealth Hub Initiative and Interfacility Access - WebVRAM, v1.1 received Mar 2020.
-
-To promote process improvement, implementation of the WebVRAM application provides a web-based application to move the VRAM functionality to a cloud computing environment in keeping with the VA Enterprise Cloud initiatives and policy direction. The WebVRAM application will continue to offer a solution which allows synchronization of account credentials by replacing the prior model of user authorization through the VistA CLAIMS system and leveraging the VistA Station ID Callback module (STIC) at user login while maintaining an internal user table that can be electronically populated with user profiles, VistA menus, and keys.
